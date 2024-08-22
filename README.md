@@ -20,6 +20,6 @@
 ---
 Если вам интересно узнать больше о моих проектах или обсудить возможное сотрудничество - свяжитесь со мной любым удобным способом, я открыт для предложений.  
 
-[Моё резюме](https://amethyst-shroud-0bf.notion.site/2f264693ef5148de8e10fd8e46bea961)
-
 [Мои проекты в ходе обучения (Яндекс.Практикум)](https://github.com/serobabov/practicum.yandex.git)
+
+[Моё резюме](https://amethyst-shroud-0bf.notion.site/2f264693ef5148de8e10fd8e46bea961)
