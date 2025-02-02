@@ -21,5 +21,6 @@
 Если вам интересно узнать больше о моих проектах или обсудить возможное сотрудничество - свяжитесь со мной любым удобным способом, я открыт для предложений.  
 
 [Мои проекты в ходе обучения (Яндекс.Практикум)](https://github.com/serobabov/practicum.yandex.git)
+[**Мои рабочие проекты**](https://github.com/serobabov/work.projects.git)
 
 [Моё резюме](https://serobabov-sa.yonote.ru/share/resume)
